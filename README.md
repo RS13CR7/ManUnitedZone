@@ -1,4 +1,4 @@
-# My Game Dashboard
+# ManUnitedZone
 
 ⚠️ **Disclaimer:** This website is for personal use and entertainment.  
 It is **not intended to be used during class or during work hours**. Please respect your school’s rules and only use it responsibly.
